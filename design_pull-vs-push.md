@@ -20,7 +20,7 @@ When evaluating software for particular function we need to put ourselves in the
 ## Pull vs. Push Technologies
 
 ## What is push tech?
-Technology that requires you to gather target IP addresses 
+Technology that requires the collection of target IP addresses and an authentiction such as username and password to perform transactions on the target net node
 
 
 ### What scales well?
