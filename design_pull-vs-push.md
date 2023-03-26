@@ -28,6 +28,7 @@ Data Centers and Cloud Service Providers have "good plumbing" that allow custome
 - Massive quantity of devices in different geos
 - Generally, there is an army of boots on the ground which require minimal training
 - Sometimes diagnosing a device remotely by human is more costly than shipping a unit to replace it
+- Device security and software attestation required in varying degrees
 
 ![pull-vs-push](/images/design_pull-vs-push.png)
 
