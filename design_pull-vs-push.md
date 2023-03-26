@@ -15,7 +15,7 @@ description: >
 
 We take plumbing in our homes and facilities for granted.  When I am search of edge technologies I am looking for "good plumbing" that I can take for granted.
 
-Data Centers and Cloud Service Providers have "good plumbing" that allow customers to focus on application lifecycle management programmatically through APIs for their IaaS.  These luxuries do not exist at that edge and customers are asking Intel for the same experience at the edge.  Many of the CNCF Cloud Native softwares were designed with this infrastructure in mind.  It is important to understand how many CNCF projects do not work well for many edge use cases.  Use cases like utility pole, oil rig, vehicle, delivery robot, self-checkout retail store, patient monitoring, battle field tactical drones/operators, renewable wind farm, autonomous data center.  Many of these use cases are remote, connected by satellite/5g/4g/3g wireless technology, running off batteries.  If we solve these use cases first, all other use cases closer to the cloud will benefit from the innovation in efficiency and OPEX.
+Data Centers and Cloud Service Providers have "good plumbing" that allow customers to focus on application lifecycle management programmatically through APIs for their IaaS.  These luxuries do not exist at that edge and customers are asking Intel for the same experience at the edge.  Many of the CNCF Cloud Native softwares were designed with this infrastructure in mind.  It is important to understand how many CNCF projects do not work well for many edge use cases.  Use cases like utility pole, oil rig, vehicle, delivery robot, self-checkout retail store, patient monitoring, battle field tactical drones/operators, renewable wind farms, autonomous data centers.  Many of these use cases are remote, connected by satellite/5g/4g/3g wireless technology, running off batteries.  If we solve these use cases first, all other use cases closer to the cloud will benefit from the innovation in efficiency and OPEX.
 
 ### Edge use cases not typically in Telco or Data Centers:
 - Devices are behind firewalls, NATs and proxies and no ports will be open between the central management service and target device
@@ -24,7 +24,7 @@ Data Centers and Cloud Service Providers have "good plumbing" that allow custome
 - There is limited physical real estate to have a management hardware near target devices
 - Cost and skillset is limited at locations
 - Majority of devices do not have a BMC
-- Out-of-band Provisioning and In-Band Provisioning may not be done in the same physical location
+- Out-of-band Provisioning and In-Band Provisioning will most likely be done in different physical locations
 - The massive quantity of devices in different geos and generally there is an army of boots on the ground which require minimal training
 - Sometimes diagnosing a device remotely by human is more costly than shipping a unit to replace it
 
