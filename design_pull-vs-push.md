@@ -29,6 +29,9 @@ Data Centers and Cloud Service Providers have "good plumbing" that allow custome
 - Generally, there is an army of boots on the ground which require minimal training
 - Sometimes diagnosing a device remotely by human is more costly than shipping a unit to replace it
 - Device security and software attestation required in varying degrees
+- Devices are attached to sporadically connected or “connect on demand” networks
+- Devices are connected to the network using high latency or variable latency networks such as radio or satellite
+- Devices are connected to high cost networks, where data transferred over the network may be cost prohibited
 
 ![pull-vs-push](/images/design_pull-vs-push.png)
 
