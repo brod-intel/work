@@ -25,7 +25,8 @@ Data Centers and Cloud Service Providers have "good plumbing" that allow custome
 - Cost and skillset is limited at locations
 - Majority of devices do not have a BMC
 - Out-of-band Provisioning and In-Band Provisioning will most likely be done in different physical locations
-- The massive quantity of devices in different geos and generally there is an army of boots on the ground which require minimal training
+- Massive quantity of devices in different geos
+- Generally, there is an army of boots on the ground which require minimal training
 - Sometimes diagnosing a device remotely by human is more costly than shipping a unit to replace it
 
 ![pull-vs-push](/images/design_pull-vs-push.png)
